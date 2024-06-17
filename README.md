@@ -1,1 +1,3 @@
 # s3d-mil-nce
+
+* Lightning AI blog coming soon...
